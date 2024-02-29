@@ -4,6 +4,4 @@
 
 
 #[tomcatservers]
-172.31.142.192  ansible_user=ec2-user 
-
-
+172.31.142.192  ansible_user=ec2-user
